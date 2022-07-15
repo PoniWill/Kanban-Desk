@@ -1,15 +1,9 @@
 <template>
     <nav>
         <ul>
-            <li>
-                <img src="../assets/icons/search.png" alt="">
-            </li>
-            <li>
-                <img src="../assets/icons/plus.png" alt="">
-            </li>
-            <li>
-                <img src="../assets/icons/menu.png" alt="">
-            </li>
+            <li><img src="../assets/icons/search.png" alt=""></li>
+            <li><img src="../assets/icons/plus.png" alt=""></li>
+            <li><img src="../assets/icons/menu.png" alt=""></li>
         </ul>
     </nav>
 </template>
