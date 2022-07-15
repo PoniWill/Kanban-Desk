@@ -13,11 +13,13 @@
         </div>
     </nav>
 </template>
+
 <script>
 export default {
     
 }
 </script>
+
 <style lang="scss" scoped>
 nav{
     width: 80px;
