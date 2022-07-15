@@ -1,6 +1,9 @@
 <template>
     <header>
-        
+        <div class="logo">
+            <img src="" alt="">
+            <h1>eveli.todo</h1>
+        </div>
     </header>
 </template>
 <script>

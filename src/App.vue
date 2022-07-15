@@ -14,14 +14,5 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
-.drop-zone {
-  background-color: #eee;
-  margin-bottom: 10px;
-  padding: 10px;
-}
-.drag-el {
-  background-color: #fff;
-  margin-bottom: 10px;
-  padding: 5px;
-}
+
 </style>
